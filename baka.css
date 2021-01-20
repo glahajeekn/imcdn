@@ -15,7 +15,7 @@
 }
 @font-face { font-family:MyFont;
 src: url(https://fonts.googleapis.com/css2?family=Potta+One&amp;display=swap)}
-*{font-family:MyFont!important;}
+body{font-family:MyFont!important;}
 #aside-content .card-widget {
     position: relative;
     overflow: hidden;
