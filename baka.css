@@ -41,7 +41,7 @@ body{font-family:MyFont!important;}
     line-height: 4em;
     font-weight: 700;
     font-size: .9rem;
-    color: var(--heo-white);
+    color: #eff;
     transition: all .4s cubic-bezier(.39,.575,.565,1);
 }
 .CoolButton:hover {
