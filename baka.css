@@ -31,3 +31,19 @@ body{font-family:MyFont!important;}
     -ms-transition: box-shadow 0.3s;
     transition: box-shadow 0.3s;
 }
+.CoolButton {
+    background: linear-gradient(to left,#38ef7d,#11998e);
+    height: 4em;
+    width: 100%;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+    line-height: 4em;
+    font-weight: 700;
+    font-size: .9rem;
+    color: var(--heo-white);
+    transition: all .4s cubic-bezier(.39,.575,.565,1);
+}
+.CoolButton:hover {
+    color: #eff
+}
